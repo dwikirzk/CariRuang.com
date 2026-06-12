@@ -1,0 +1,12 @@
+# Folder konfigurasi teks editor / IDE
+.vscode/
+.idea/
+
+# File sistem operasi
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# File cadangan database lokal (jika ada)
+*.bak
