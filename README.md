@@ -1,6 +1,6 @@
-# CariRuang.com - Sistem Cek & Booking Kelas Kosong Ubhi
+# CariRuang.com - Sistem Cek & Booking Kelas Kosong UBhi
 
-CariRuang.com adalah aplikasi berbasis web _Full-Stack_ yang dirancang untuk mempermudah mahasiswa (Komting) dalam mencari dan mengklaim ruangan kelas kosong di Gedung B untuk keperluan kuliah pengganti secara _real-time_. Sistem ini juga dilengkapi dengan panel khusus admin untuk mengelola jadwal kuliah reguler agar tidak terjadi bentrok peminjaman.
+CariRuang.com adalah aplikasi berbasis web _Full-Stack_ yang dirancang untuk mempermudah mahasiswa (Komting) dalam mencari dan mengklaim ruangan kelas kosong di UBhi untuk keperluan kuliah pengganti secara _real-time_. Sistem ini juga dilengkapi dengan panel khusus admin untuk mengelola jadwal kuliah reguler agar tidak terjadi bentrok peminjaman.
 
 ---
 
